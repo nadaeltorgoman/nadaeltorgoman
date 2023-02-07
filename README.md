@@ -60,7 +60,7 @@ Happy Coding! 😊
   <a href="https://www.snapchat.com/add/n_eltorgoman?share_id=7oJt5vJ03lA&locale=en-US"><img src="https://img.shields.io/badge/snapchat-%23FFFC00.svg?style=plastic&logo=snapchat&logoColor=black" alt="Snap Chat"/></a>
 
 <br><br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nadaeltorgoman" alt="nadaeltorgoman" /> </p
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nadaeltorgoman" alt="nadaeltorgoman" /> </p
 </div>
 
 ⭐ From [Nada Eltorgoman](https://github.com/nadaeltorgoman)
