@@ -2,7 +2,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=I+am+a+Computer+Scinece+student;Flutter+Develober;Comptative+programming;Software+Engineering;&font=Fira%20Code&center=true&size=30&width=600&height=150&duration=4000&pause=1000">
 </p>
-![The rebels  - 6](https://github.com/Alou-ani69/Alou-ani69/assets/96358952/dcabb39c-5fd9-4eac-a407-a0a2c5296768)
 
 -  🏫 I am a `Senior` at [Faculty of Computers & Informatics](http://suez.edu.eg/ar/%d9%83%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa/) at [Suez Canal University](http://suez.edu.eg/ar/).
 - 🌱 I’m currently learning Flutter With Dart.
