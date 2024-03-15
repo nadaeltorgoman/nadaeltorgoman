@@ -1,6 +1,9 @@
 # Hi there , I am Nada El-Torgoman👋
+
+![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=I+am+a+Computer+Scinece+student;Flutter+Develober;Comptative+programming;Software+Engineering;&font=Fira%20Code&center=true&size=30&width=600&height=150&duration=4000&pause=1000">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+There!;Be+Welcome!+:%29_;I+am+a+Computer+Scinece+student;Flutter+Develober+:);Comptative+programming;Software+Engineering;&font=Fira%20Code&center=true&size=30&width=600&height=150&duration=4000&pause=1000&color=e745e5">
 </p>
 
 <img align="right" alt="Coding" width="210" height="300" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif">
@@ -77,6 +80,12 @@ Happy Coding! 😊
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nadaeltorgoman&bg_color=00000000&border_color=00000000&&langs_count=10&layout=compact)](https://github.com/nadaeltorgoman?tab=repositories) <!--(https://github.com/anuraghazra/github-readme-stats)-->
 
 ###
+<h2>🤝About Me🤝</h2>
+<p align="center">
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=nadaeltorgoman&theme=monokai" (https://github.com/ryo-ma/github-profile-trophy) />
+</p>
+
+###
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
@@ -85,10 +94,6 @@ Happy Coding! 😊
   
   <br/><br/><br/>
 </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nadaeltorgoman&label=Profile%20views&color=0e75b6&style=flat" alt="nadaeltorgoman" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nadaeltorgoman" alt="nadaeltorgoman" /></a> </p>
-
-
+	<img width='100%' src="https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient&reversal=false&section=footer&textBg=false&fontAlign=0&fontAlignY=0&descAlign=0&descAlignY=0"/>
 
 ###
