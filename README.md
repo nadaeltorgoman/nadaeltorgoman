@@ -63,7 +63,7 @@ Happy Coding! 😊
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nadaeltorgoman" alt="nadaeltorgoman" /> </p
 </div>
 
-⭐ From [Nada Eltorgoman](https://github.com/nadaeltorgoman)
+⭐ From [Nada El-Torgoman](https://github.com/nadaeltorgoman)
 
 ###
 
