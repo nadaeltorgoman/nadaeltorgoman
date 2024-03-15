@@ -66,7 +66,6 @@ Happy Coding! 😊
 
 <br><br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nadaeltorgoman" alt="nadaeltorgoman" /> </p>
-⭐ From [Nada El-Torgoman](https://github.com/nadaeltorgoman)
 </div>
 
 
@@ -86,6 +85,8 @@ Happy Coding! 😊
 </p>
 
 ###
+
+
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
@@ -94,6 +95,10 @@ Happy Coding! 😊
   
   <br/><br/><br/>
 </div>
-	<img width='100%' src="https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient&reversal=false&section=footer&textBg=false&fontAlign=0&fontAlignY=0&descAlign=0&descAlignY=0"/>
+
+###
+⭐ From [Nada El-Torgoman](https://github.com/nadaeltorgoman) , Thanks for Coming, Have a Nice Day👋
+
+<img width='100%' src="https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient&reversal=false&section=footer&textBg=false&fontAlign=0&fontAlignY=0&descAlign=0&descAlignY=0"/>
 
 ###
