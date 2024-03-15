@@ -2,7 +2,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=I+am+a+Computer+Scinece+student;Flutter+Develober;Comptative+programming;Software+Engineering;&font=Fira%20Code&center=true&size=30&width=600&height=150&duration=4000&pause=1000">
 </p>
+
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+
 -  🏫 I am a `Senior` at [Faculty of Computers & Informatics](http://suez.edu.eg/ar/%d9%83%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa/) at [Suez Canal University](http://suez.edu.eg/ar/).
 - 🌱 I’m currently learning Flutter With Dart.
 - 💻 I am a competitive programmer at `Codeforces`, `Atcoder`.
