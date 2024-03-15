@@ -75,18 +75,12 @@ Happy Coding! 😊
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=nadaeltorgoman&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
+### :fire: My Stats :
 <div align="center">
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nadaeltorgoman&exclude_days=Mon%2CTue%2CSat&theme=github-dark-dimmed&hide_border=true&stroke=EBEBEB00&date_format=j%20M%5B%20Y%5D&background=EB545400&excludeDaysLabel=EB545400)](https://github.com/nadaeltorgoman?tab=repositories)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nadaeltorgoman&bg_color=00000000&border_color=00000000&&langs_count=10&layout=compact)](https://github.com/nadaeltorgoman?tab=repositories) <!--(https://github.com/anuraghazra/github-readme-stats)-->
-
 
 ###
 <div align="center">
