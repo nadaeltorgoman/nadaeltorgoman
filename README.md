@@ -80,6 +80,15 @@ Happy Coding! 😊
 </div>
 
 ###
+
+<div align="center">
+  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nadaeltorgoman-1&exclude_days=Mon%2CTue%2CSat&theme=github-dark-dimmed&hide_border=true&stroke=EBEBEB00&date_format=j%20M%5B%20Y%5D&background=EB545400&excludeDaysLabel=EB545400)](https://github.com/nadaeltorgoman-1?tab=repositories)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nadaeltorgoman-1&bg_color=00000000&border_color=00000000&&langs_count=10&layout=compact)](https://github.com/nadaeltorgoman-1?tab=repositories) <!--(https://github.com/anuraghazra/github-readme-stats)-->
+
+
+###
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
