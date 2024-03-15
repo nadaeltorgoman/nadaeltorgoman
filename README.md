@@ -80,3 +80,7 @@ Happy Coding! 😊
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/nadaeltorgoman/nadaeltorgoman/output/snake.svg" alt="Snake animation" />
+
+###
