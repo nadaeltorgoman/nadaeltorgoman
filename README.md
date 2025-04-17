@@ -14,7 +14,7 @@
 - ✨ I seek to `learn`, `progress`, and `develop`.
 - 💭 currently, I’m open to a new `Job` or `Internship`.
 - 📌 I'm programming mobile apps to add simplicity and happiness to someone's life
-- ⚡ this is [MY RESUME](https://drive.google.com/file/d/1DXzEphIkxvq622KO4PeZaIsGtpDb3ncG/view)
+- ⚡ this is [MY RESUME](https://drive.google.com/drive/folders/1n56Q46SPk2jVrxuAvMXKL1R-HBw6bcUu?usp=sharing)
 
 I just wanted to let you know that you have finally found my GitHub profile. <br>
 Please feel free to clone projects and raise issues if you think something could be better.
