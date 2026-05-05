@@ -1,7 +1,7 @@
 # Hi there , I am Nada El-Torgoman👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+There!;Be+Welcome!+:%29_;I+am+a+Computer+Scinece+student;Flutter+Developer+:);Comptative+programmer;Software+Engineering;&font=Fira%20Code&center=true&size=30&width=600&height=150&duration=4000&pause=1000&color=e745e5">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+There!;Be+Welcome!+:%29_;I+am+a+....;Mobile+App+Developer;Flutter+Developer+:);Comptative+programmer;Software+Engineering;&font=Fira%20Code&center=true&size=30&width=600&height=150&duration=4000&pause=1000&color=e745e5">
 </p>
 
 <img align="right" alt="Coding" width="210" height="300" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif">
