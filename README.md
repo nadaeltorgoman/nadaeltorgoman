@@ -1,5 +1,6 @@
 # Hi there , I am Nada El-Torgoman👋
-
+<img src="https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif" width="900">
+<br><br>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+There!;Be+Welcome!+:%29_;I+am+a+....;Mobile+App+Developer;Flutter+Developer+:);Comptative+programmer;Software+Engineering;&font=Fira%20Code&center=true&size=30&width=600&height=150&duration=4000&pause=1000&color=e745e5">
 </p>
