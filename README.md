@@ -57,10 +57,8 @@ Happy Coding! 😊
 
   <a href="mailto:nada.khalid.eltorgoman@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
    <a href="https://www.linkedin.com/in/nada-eltorgoman/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://wa.me/qr/5RKTJERCC65RD1"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
+  <a href="https://wa.me/201091084009"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
 	<a href="https://www.facebook.com/nada.eltorgoman/"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
-	<a href="https://www.instagram.com/nadoo_eltorgoman/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://www.snapchat.com/add/n_eltorgoman?share_id=7oJt5vJ03lA&locale=en-US"><img src="https://img.shields.io/badge/snapchat-%23FFFC00.svg?style=plastic&logo=snapchat&logoColor=black" alt="Snap Chat"/></a>
 
 <br><br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nadaeltorgoman" alt="nadaeltorgoman" /> </p>
