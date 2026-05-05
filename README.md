@@ -34,6 +34,8 @@ Happy Coding! 😊
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github)
 ![Powershell](https://img.shields.io/badge/-Powershell-000000?style=flat&logo=powershell)
+![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=firebase)
+![Rest API](https://img.shields.io/badge/-RestAPI-000000?style=flat&logo=restapi)
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows)
 
 
