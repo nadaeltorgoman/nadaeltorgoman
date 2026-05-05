@@ -20,7 +20,7 @@ Please feel free to clone projects and raise issues if you think something could
 
 Happy Coding! 😊
 
-## Languages & Tools
+## Languages & Tools 🔥
 
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
@@ -41,7 +41,7 @@ Happy Coding! 😊
 
 
 
-## Editors
+## Editors 💻
 
 ![Sublime Text](http://img.shields.io/badge/-Sublime%20Text-000000?style=flat&logo=sublime-text)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-000000?style=flat&logo=android-studio)
@@ -49,13 +49,12 @@ Happy Coding! 😊
 ![Eclipse-IDE](https://img.shields.io/badge/-Eclipse-000000?style=flat&logo=eclipse&logoColor=2C2255)
 ![Adobe Photoshop](http://img.shields.io/badge/-Abode%20Photoshop-000000?style=flat&logo=adobe-photoshop)
 
-## Database
+## Database 👩‍💻
 
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 ![ORACLE](https://img.shields.io/badge/-ORACLE-000000?style=flat&logo=oracle)
 
 <div align="center">
-
 <i>Follow me:</i><br>
 
   <a href="mailto:nada.khalid.eltorgoman@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
@@ -63,8 +62,9 @@ Happy Coding! 😊
   <a href="https://wa.me/201091084009"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
 	<a href="https://www.facebook.com/nada.eltorgoman/"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
 
-<br><br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nadaeltorgoman" alt="nadaeltorgoman" /> </p>
+<p align="center"> <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</p>
 </div>
 
 
